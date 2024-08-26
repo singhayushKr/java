@@ -31,17 +31,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Grade_student.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Min_max.executor": "Run",
     "Application.Return_int.executor": "Run",
     "Application.Return_string.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "java1",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ayush kr singh/IdeaProjects/Functions_methods/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Min_max">
+  <component name="RunManager" selected="Application.Grade_student">
+    <configuration name="Grade_student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grade_student" />
+      <module name="Functions_methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Functions_methods" />
@@ -72,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Grade_student" />
         <item itemvalue="Application.Min_max" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Return_string" />
@@ -104,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724677126623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1724677531819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724677531819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
