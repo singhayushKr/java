@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c9260fb-106b-42bb-8f98-8e95ee1c14c6" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grade_student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grade_student.java" afterDir="false" />
-    </list>
+    <list default="true" id="5c9260fb-106b-42bb-8f98-8e95ee1c14c6" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "java1",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ayush kr singh/IdeaProjects/Functions_methods/src/Main.java"
   }
