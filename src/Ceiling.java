@@ -11,6 +11,8 @@ public class Ceiling {
 
     }
     static int ceiling(int[] arr,int target){
+        //if target is more than gratest number than
+        if(target>arr[arr.length-1]) return -1;
         int start=0;
         int end=arr.length-1;
         while(start<=end){
