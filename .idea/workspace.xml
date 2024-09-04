@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9260fb-106b-42bb-8f98-8e95ee1c14c6" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ceiling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ceiling.executor": "Run",
     "Application.Grade_student.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Min_max.executor": "Run",
@@ -50,7 +51,14 @@
     "onboarding.tips.debug.path": "C:/Users/ayush kr singh/IdeaProjects/Functions_methods/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.factorial">
+  <component name="RunManager" selected="Application.Ceiling">
+    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ceiling" />
+      <module name="Functions_methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Grade_student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Grade_student" />
       <module name="Functions_methods" />
@@ -72,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Return_string" />
-      <module name="Functions_methods" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factorial" />
       <module name="Functions_methods" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ceiling" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.Grade_student" />
         <item itemvalue="Application.Min_max" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Return_string" />
       </list>
     </recent_temporary>
   </component>
